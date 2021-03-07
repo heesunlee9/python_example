@@ -12,3 +12,14 @@ C = np.array([1, 2])
 
 np.dot(temp, C)
 ```
+
+
+# functional programming imperative programming comparison python
+
+## explanation without code
+
+functional programming = functions + immutable data 
+
+https://www.journaldev.com/8693/functional-imperative-object-oriented-programming-comparison
+
+https://realpython.com/python-functional-programming/
